@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MapGenCpp", "MapGenCpp\MapGenCpp.vcxproj", "{E2DEEE54-6D27-46E2-9246-B6AD5A56804C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2DEEE54-6D27-46E2-9246-B6AD5A56804C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E2DEEE54-6D27-46E2-9246-B6AD5A56804C}.Debug|Win32.Build.0 = Debug|Win32
+		{E2DEEE54-6D27-46E2-9246-B6AD5A56804C}.Debug|x64.ActiveCfg = Debug|x64
+		{E2DEEE54-6D27-46E2-9246-B6AD5A56804C}.Debug|x64.Build.0 = Debug|x64
+		{E2DEEE54-6D27-46E2-9246-B6AD5A56804C}.Release|Win32.ActiveCfg = Release|Win32
+		{E2DEEE54-6D27-46E2-9246-B6AD5A56804C}.Release|Win32.Build.0 = Release|Win32
+		{E2DEEE54-6D27-46E2-9246-B6AD5A56804C}.Release|x64.ActiveCfg = Release|x64
+		{E2DEEE54-6D27-46E2-9246-B6AD5A56804C}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+EndGlobal
